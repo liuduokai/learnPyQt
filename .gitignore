@@ -1,0 +1,8 @@
+/.idea/
+/venv/
+/config/
+/logger/
+*.dll
+/dist/
+/build/
+/__pycache__/
